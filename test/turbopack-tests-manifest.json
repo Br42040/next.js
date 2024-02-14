@@ -931,11 +931,11 @@
       "ReactRefreshLogBox app turbo module init error not shown",
       "ReactRefreshLogBox app turbo server component can recover from error thrown in the module",
       "ReactRefreshLogBox app turbo should strip whitespace correctly with newline",
-      "ReactRefreshLogBox app turbo unterminated JSX"
+      "ReactRefreshLogBox app turbo unterminated JSX",
+      "ReactRefreshLogBox app turbo css syntax errors"
     ],
     "failed": [
-      "ReactRefreshLogBox app turbo conversion to class component (1)",
-      "ReactRefreshLogBox app turbo css syntax errors"
+      "ReactRefreshLogBox app turbo conversion to class component (1)"
     ],
     "pending": [
       "ReactRefreshLogBox app default Call stack count is correct for client error",
