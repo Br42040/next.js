@@ -72,6 +72,12 @@ exports[`ReactRefreshLogBox default should strip whitespace correctly with newli
 
 exports[`ReactRefreshLogBox turbo boundaries 1`] = `null`;
 
+exports[`ReactRefreshLogBox turbo css syntax errors 1`] = `
+"./index.module.css
+Parsing css source code failed
+Selector is not pure (pure selectors must contain at least one local class or id)"
+`;
+
 exports[`ReactRefreshLogBox turbo logbox: anchors links in error messages 1`] = `"Error: end http://nextjs.org"`;
 
 exports[`ReactRefreshLogBox turbo logbox: anchors links in error messages 2`] = `"http://nextjs.org/"`;
